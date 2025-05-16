@@ -86,3 +86,8 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
 
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake.svg" />
+</picture>
