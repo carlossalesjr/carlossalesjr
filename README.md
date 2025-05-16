@@ -62,14 +62,14 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
 <p>
   <img 
     align="left" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=carlossalesjr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
 />
 
   <img 
     align="left" 
-    height="100" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalesjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
