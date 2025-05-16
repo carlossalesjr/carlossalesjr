@@ -6,7 +6,7 @@ My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Bra
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and tools
 
 <img 
     align="left" 
@@ -67,7 +67,7 @@ My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Bra
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -86,8 +86,3 @@ My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Bra
 
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/carlossalesjr/carlosalesjr/output/github-snake.svg" />
-</picture>
