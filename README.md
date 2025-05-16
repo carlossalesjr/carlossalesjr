@@ -32,7 +32,7 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
     title="Flutter"
     width="30px" 
     style="padding-right: 10px;" 
-    ssrc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" 
 />
  
 
