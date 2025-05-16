@@ -1,8 +1,8 @@
-## Olá, sou Carlos Alberto 👩🏻‍💻
+## Hello World, I'm Carlos Alberto 👩🏻‍💻
 
 **`Perfil em construção 🏗️`**
 
-Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ensino médio no IFBA, com o curso técnico em química. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFBA. 
+My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Brasil. I completed high school at IFBA, with a technical course in chemistry. I am currently studying Systems Analysis and Development at IFBA. 
 
 ---
 
@@ -74,7 +74,7 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
     align="left" 
     height="150" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlossalesjr&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carlossalesjr&show_icons=true&theme=gruvbox&include_all_commits=true" 
 />
 
   <img 
