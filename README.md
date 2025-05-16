@@ -16,6 +16,7 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -27,11 +28,30 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
 
 <img 
     align="left" 
+    alt="Flutter" 
+    title="Flutter"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+          
+/>
+
+<img 
+    align="left" 
     alt="C" 
     title="C"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Kotlin" 
+    title="Kotlin"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain.svg"
 />
 
 <br/>
