@@ -64,14 +64,15 @@ Me chamo Carlos Alberto Sales, tenho 20 anos, sou de Salvador/BA. Concluí o ens
     align="left" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=carlossalesjr&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=carlossalesjr&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br" 
 />
 
   <img 
     align="left" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalesjr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossalesjr&size_weight=0.5&count_weight=0.5&theme=gruvbox&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
+
 </p>
 
