@@ -63,6 +63,15 @@ My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Bra
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain-wordmark.svg"
 />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"
+/>
+
 
 <br/>
 <br/>
