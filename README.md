@@ -1,6 +1,6 @@
 ## Hello World, I'm Carlos Alberto 👩🏻‍💻
 
-**`Perfil em construção 🏗️`**
+**`Building profile 🏗️`**
 
 My name is Carlos Alberto Sales, I'm 20 years old, I'm from Salvador, Bahia, Brasil. I completed high school at IFBA, with a technical course in chemistry. I am currently studying Systems Analysis and Development at IFBA. 
 
